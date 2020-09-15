@@ -1,0 +1,63 @@
+.com_joeworkman_stacks_link_stack a{display:block;text-decoration:none!important;padding:0;margin:0}
+
+.stacks_left {
+	float:left;
+}
+
+.stacks_row {
+	overflow:hidden;
+	margin:0 auto;
+}
+#stacks_in_49_page0 .stacks_left {
+	width:183px;
+}
+
+#stacks_in_49_page0 .stacks_row {
+	width:366px;
+}#stacks_in_2_page0_button {
+	display:block;
+	position: relative;
+	text-align: center;
+}
+
+
+#stacks_in_2_page0 a:link, #stacks_in_2_page0 a:visited {
+	 display:inline-block; 
+	
+	
+	position: relative;
+	text-decoration:none;
+}
+#stacks_in_2_page0 a:hover, #stacks_in_2_page0 a:active {
+	color:#FFFFFF;
+}
+
+
+
+
+
+
+
+#stacks_in_2_page0 a:link, #stacks_in_2_page0 a:visited {
+	background-color:#516C8E;
+	background: -webkit-gradient(linear, left top, left bottom, from(#516C8E), to(#304155));
+	border:1px solid #304155;
+	padding:3px 20px;
+	border-radius:30px;
+	color:#FFFFFF;
+	box-shadow:rgba(0, 0, 0, 0.5) 0px 1px 2px;
+	margin:5px;
+	font-weight:bold;
+}
+#stacks_in_2_page0 a:hover {
+	background-color:#577599;
+	background: -webkit-gradient(linear, left top, left bottom, from(#577599), to(#2A384A));
+	box-shadow:rgba(0, 0, 0, 0.25) 0px 2px 4px;
+}
+#stacks_in_2_page0 a:active {
+	background-color:#516C8E;
+	box-shadow:rgba(0, 0, 0, 0.75) 0px 0px 4px inset;
+}
+
+
+
